@@ -1,12 +1,17 @@
 {
-  "name": "html5",
+  "name": "aumo-finance-html5",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aumo Finance web UI — duplikasi murni HTML5 + CSS + JavaScript dari /frontend aumo-finance.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "html5",
+    "vanilla-js",
+    "aumo-finance",
+    "accounting"
+  ],
   "author": "rdmmoonlight",
   "license": "ISC",
   "devDependencies": {
@@ -14,5 +19,10 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.14.0"
+  },
+  "homepage": "https://github.com/rdmmoonlight/html5#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdmmoonlight/html5.git"
   }
 }
